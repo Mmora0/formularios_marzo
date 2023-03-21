@@ -8,4 +8,15 @@
 
 .formulario{
     font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    background-color: aquamarine;
+    height: 50vh;
+}
+
+.lottie{
+    background-color: blueviolet;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
