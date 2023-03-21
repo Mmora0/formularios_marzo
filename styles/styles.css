@@ -13,10 +13,31 @@
     height: 50vh;
 }
 
+.formulario2{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    background-color: blueviolet;
+    height: 80vh;
+}
+
+
 .lottie{
     background-color: blueviolet;
     height: 50vh;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.lottie2{
+    background-color: aquamarine;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+strong{
+    font-size: x-large;
+    font-style: italic;
 }
